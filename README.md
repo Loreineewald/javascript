@@ -1,4 +1,4 @@
-# https://github.com/Loreineewald/javascript
+# https://loreineewald.github.io/javascript/
 
 Curso de <strong>HTML5</strong> e <strong>CSS3</strong> do Curso em Vídeo.<br>
  Com Professor <strong>Gustavo Guanabara</strong>.
